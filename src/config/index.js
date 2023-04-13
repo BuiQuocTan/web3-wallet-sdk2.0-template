@@ -1,0 +1,4 @@
+export const USDTAddress = {
+  1: "0xdac17f958d2ee523a2206206994597c13d831ec7",
+  5: "0x8Ee7eb154F4C68B2c9677405034747B0731b4Ec3",
+};
